@@ -1,6 +1,6 @@
-💭 Hey, I’m Daviti 👋  
-👀 My interests are BlockChain, Solidity, JavaScript, TypeScript, Elm, PHP, NodeJS  
-🌱 I’m currently learning Haskell, PureScript, F#, C#  
-📫 You can reach me at [LinkedIn](https://www.linkedin.com/khvleuri), [Twitter](https://twitter.com/khvleuri), [Telegram](https://t.me/khvuxen) or [Facebook](https://facebook.com/khvleuri)     
-🌐 [My website](https://vuxen.dev)   
-
+ 🟢 JavaScript         ████████████░░░░ 70% (Still learning async/await)
+ 🔵 TypeScript         ██████░░░░░░░░░░ 40% (Types are hard, okay?)
+ ⚛️ React              ███████████░░░░░ 75% (useState is my friend)
+ 🟣 Node.js            ████████░░░░░░░░ 55% (Callback hell survivor)
+ 🐘 PostgreSQL         █████░░░░░░░░░░░ 35% (SELECT * FROM confusion)
+ ☕ Coffee Brewing     ████████████████ 100% (My only perfect skill)
